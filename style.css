@@ -85,7 +85,7 @@ header a:hover {
 /* Showcase */
 #showcase {
 	min-height: 400px;
-	background:url(https://rawgit.com/slossius/dusk/master/showcase.png?raw=true) no-repeat 0 -400px;
+	background:url("https://rawgit.com/slossius/dusk/master/showcase.png?raw=true") no-repeat 0 -400px;
 	text-align: center;
 	color:#ffffff;
 }
